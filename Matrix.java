@@ -24,7 +24,7 @@ public class matrix {
         // initialize above four matrix 
         for (int i = 0; i < N; i++) { 
               
-            // initialize first row of top 
+            // initialize first row of top
             top[0][i] = mat[0][i]; 
   
             // initialize last row of bottom 
